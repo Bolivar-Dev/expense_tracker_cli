@@ -81,6 +81,9 @@ python main.py <command> [options]
 - Python 3.12+
 - See `requeriments.txt` for dependencies.
 
+  URL:
+  https://roadmap.sh/projects/expense-tracker
+
 ## License
 
 MIT License
