@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "category": "food",
+    "description": "meat",
+    "amount": 6.7,
+    "created_at": "2025/06/22 16:14:00",
+    "updated_at": "2025/06/22 16:14:00"
+  },
+  "2": {
+    "id": 2,
+    "category": "food",
+    "description": "eggs",
+    "amount": 3.7,
+    "created_at": "2025/06/22 16:14:20",
+    "updated_at": "2025/06/22 16:14:20"
+  },
+  "3": {
+    "id": 3,
+    "category": "toys",
+    "description": "ball",
+    "amount": 10.7,
+    "created_at": "2025/06/22 16:14:35",
+    "updated_at": "2025/06/22 16:14:35"
+  }
+}
